@@ -1,0 +1,118 @@
+{
+    "contacts": [
+        {
+            "id":"AAA111",
+            "name": "Abhijit",
+            "photo": "https://www.kindpng.com/picc/m/78-786207_us avatar-png-user-avatar-icon-png-transparent.png",
+            "mobile":"8888877777",
+            "email": "abhijitsalunke01@gmail.com",
+            "title" :"Software Engineer",
+            "company":"Test Yantra",
+            "group":"3"
+        },
+        {
+            "id":"AAA112",
+            "name": "Naved",
+            "photo": "https://p.kindpng.com/picc/s/210-2103418_freefire-garena-free-fire-renders-free-fire-png.png",
+            "mobile":"78955354445",
+            "email": "navkhan4578@gmail.com",
+            "title" :"Software Developer",
+            "company":"Microsoft",
+            "group":"1"
+        },
+        {
+            "id":"AAA113",
+            "name": "Sanket",
+            "photo": "https://p.kindpng.com/picc/s/163-1631607_call-of-duty-mobile-png-transparent-png.png",
+            "mobile":"7834342323",
+            "email": "sanket32@gmail.com",
+            "title" :"Software Tester",
+            "company":"Google",
+            "group":"2"
+        },
+        {
+            "id":"AAA114",
+            "name": "Swami",
+            "photo": "https://p.kindpng.com/picc/s/468-4688894_ant-man-png-by-ant-man-and-the.png",
+            "mobile":"8744578435",
+            "email": "swami65@gmail.com",
+            "title" :"Senior Software Engineer",
+            "company":"HCL Technology",
+            "group":"1"
+        },
+        {
+            "id":"AAA115",
+            "name": "Indryanil",
+            "photo": "https://p.kindpng.com/picc/s/222-2228238_drew-a-korvax-for-my-thumbnail-no-mans.png",
+            "mobile":"3212134212",
+            "email": "indiyani@gmail.com",
+            "title" :"Software Support Engineer",
+            "company":"Wipro",
+            "group":"3"
+        },
+        {
+            "id":"AAA116",
+            "name": "Rushikesh",
+            "photo": "https://img.freepik.com/free-vector/cute-happy-smiling-child-isolated-white_1308-32243.jpg?w=360&t=st=1696919777~exp=1696920377~hmac=50b724bdccc4724d6a25bcd9f222ab13474ba8f55a00d9d6d9be8ac34f29f683",
+            "mobile":"8776343721",
+            "email": "rushi744@gmail.com",
+            "title" :"SQL DEVELOPER ",
+            "company":"Test Yantra",
+            "group":"3"
+        },
+        {
+            "id":"AAA117",
+            "name": "Aditiya Shinde",
+            "photo": "https://img.freepik.com/free-photo/3d-rendering-cartoon-like-boy-holding-sign_23-2150797674.jpg?size=626&ext=jpg&ga=GA1.2.1643042031.1696919654&semt=sph",
+            "mobile":"7732264387",
+            "email": "adi652@gmail.com",
+            "title" :"REACT Developer",
+            "company":"IT-WORKS",
+            "group":"1"
+        },
+        {
+            "id":"AAA118",
+            "name": "AAMER",
+            "photo": "https://img.freepik.com/free-photo/portrait-young-indian-top-manager-t-shirt-tie-crossed-arms-smiling-white-isolated-wall_496169-1513.jpg?size=626&ext=jpg&ga=GA1.1.1643042031.1696919654&semt=sph",
+            "mobile":"7636262121",
+            "email": "aamer34@gmail.com",
+            "title" :"Software Tester",
+            "company":"Infosys",
+            "group":"2"
+        },
+        {
+            "id":"AAA119",
+            "name": "Amit",
+            "photo": "https://img.freepik.com/free-photo/illustration-young-man-with-hat-glasses-with-briefcase_1142-32368.jpg?size=626&ext=jpg&ga=GA1.1.1643042031.1696919654&semt=sph",
+            "mobile":"3428284782",
+            "email": "amit33@gmail.com",
+            "title" :"Senior Software Test Engineer",
+            "company":"HCL Technology",
+            "group":"3"
+        },
+        {
+            "id":"AAA120",
+            "name": "Vikrant",
+            "photo": "https://p.kindpng.com/picc/s/222-2228238_drew-a-korvax-for-my-thumbnail-no-mans.png",
+            "mobile":"988323232",
+            "email": "vikrant32@gmail.com",
+            "title" :"Software Test Engineer",
+            "company":"Cognizant",
+            "group":"2"
+        }
+    ],
+    "groups" :[
+        {
+            "id":"1",
+            "name":"Collegue"
+        },
+        {
+            "id":"2",
+            "name":"friends"
+        },
+        {
+            "id":"3",
+            "name":"family"
+        }
+    ]
+}
